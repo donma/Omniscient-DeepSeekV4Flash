@@ -1,0 +1,18 @@
+{
+    "id": "T051",
+    "slug": "personal-speaker",
+    "name": "Personal Speaker",
+    "description": "適合專業講者的個人品牌官網，展示演講主題與經歷。",
+    "industry": "個人演講者",
+    "industryCategory": "個人品牌",
+    "colorTheme": "深色高級舞臺感",
+    "layoutType": "舞臺聚光燈",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T051-personal-speaker.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

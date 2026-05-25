@@ -1,0 +1,18 @@
+{
+  "id": "template-T017",
+  "slug": "music-studio",
+  "name": "Music Studio",
+  "description": "為音樂教室、才藝班設計的現代舞臺風格網站。深色背景搭配霓虹點綴，展現節奏感與專業。",
+  "industry": "音樂教室",
+  "industryCategory": "教育學習",
+  "colorTheme": "深色舞臺現代節奏",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T017-music-studio.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

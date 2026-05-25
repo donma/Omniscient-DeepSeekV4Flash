@@ -1,0 +1,14 @@
+{
+  "id": "template-T014",
+  "name": "Template T014",
+  "industryCategory": "Business",
+  "industry": ["會計","記賬","稅務","財務","審計"],
+  "colors": ["#f5f7fa","#e8ecf0","#4a7c7a","#2d5a58","#1a3a38"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

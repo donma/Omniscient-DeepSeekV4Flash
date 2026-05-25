@@ -1,0 +1,18 @@
+{
+    "id": "T054",
+    "slug": "author-book-site",
+    "name": "Author Book Site",
+    "description": "適合作家的個人網站，介紹書籍與作者故事。",
+    "industry": "作家/書籍",
+    "industryCategory": "個人品牌",
+    "colorTheme": "紙感閱讀溫暖",
+    "layoutType": "書本翻頁",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T054-author-book-site.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

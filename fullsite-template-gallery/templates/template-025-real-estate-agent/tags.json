@@ -1,0 +1,14 @@
+{
+  "id": "template-T025",
+  "name": "Template T025",
+  "industryCategory": "Business",
+  "industry": ["房仲","房地產","不動產","房屋","買賣"],
+  "colors": ["#f5f5f0","#d4d0c8","#8a8a7a","#4a4a3a","#1a1a1a"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#2d1810"/><stop offset="100%" style="stop-color:#5a2d16"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="600" cy="280" r="100" fill="#d4a574" opacity="0.15"/>
+  <text x="600" y="220" font-family="serif" font-size="52" font-weight="bold" fill="#d4a574" text-anchor="middle">Modern Restaurant</text>
+  <text x="600" y="280" font-family="serif" font-size="20" fill="#f5e6d3" text-anchor="middle">餐廳美食 · 暖色大圖</text>
+  <rect x="300" y="420" width="600" height="4" rx="2" fill="#8b4513"/>
+  <text x="600" y="480" font-family="sans-serif" font-size="14" fill="#d4a574" text-anchor="middle">色系: #2d1810 #8b4513 #d4a574 #f5e6d3 #fff8f0</text>
+  <text x="600" y="520" font-family="sans-serif" font-size="14" fill="#d4a574" text-anchor="middle">12 頁完整樣板 | RWD | Bootstrap 5</text>
+  <rect x="420" y="560" width="360" height="50" rx="25" fill="#8b4513"/>
+  <text x="600" y="592" font-family="sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">T002 - Modern Restaurant</text>
+</svg>

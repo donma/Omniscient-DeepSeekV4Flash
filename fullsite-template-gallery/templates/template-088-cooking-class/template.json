@@ -1,0 +1,18 @@
+{
+  "id": "template-088",
+  "slug": "cooking-class",
+  "name": "Cooking Class",
+  "description": "Cooking Class - 專為教育課程產業設計的全功能網站樣板。採用活動 / 體驗導向版型設計，打造專業的品牌形象網站。",
+  "industry": "教育課程",
+  "industryCategory": "教育",
+  "colorTheme": "#faf6f0, #f0e8dc, #e8c49a, #c9863a, #6a3a1a",
+  "layoutType": "活動 / 體驗導向",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-088-cooking-class.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "template-074",
+  "slug": "bookstore",
+  "name": "Bookstore",
+  "description": "Bookstore - 專為地方品牌產業設計的全功能網站樣板。採用Magazine 雜誌式首頁版型設計，打造專業的品牌形象網站。",
+  "industry": "地方品牌",
+  "industryCategory": "地方",
+  "colorTheme": "#f5f0e8, #e8e0d0, #c4b89a, #8a7a5a, #3a2a1a",
+  "layoutType": "Magazine 雜誌式首頁",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-074-bookstore.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

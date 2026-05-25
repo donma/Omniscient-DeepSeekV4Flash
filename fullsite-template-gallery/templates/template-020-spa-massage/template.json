@@ -1,0 +1,18 @@
+{
+  "id": "template-T020",
+  "slug": "spa-massage",
+  "name": "SPA Massage",
+  "description": "為SPA會館、按摩工作室設計的療愈放松形象網站。深綠米色調搭配自然元素，營造身心平衡。",
+  "industry": "SPA按摩",
+  "industryCategory": "生活美業",
+  "colorTheme": "深綠米色放松療愈",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T020-spa-massage.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

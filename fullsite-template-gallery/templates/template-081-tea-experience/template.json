@@ -1,0 +1,18 @@
+{
+  "id": "template-081",
+  "slug": "tea-experience",
+  "name": "Tea Experience",
+  "description": "Tea Experience - 專為地方品牌產業設計的全功能網站樣板。採用活動 / 體驗導向版型設計，打造專業的品牌形象網站。",
+  "industry": "地方品牌",
+  "industryCategory": "地方",
+  "colorTheme": "#2a3a2a, #4a5a3a, #7a8a5a, #c4b8a0, #f0ece0",
+  "layoutType": "活動 / 體驗導向",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-081-tea-experience.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "T045",
+    "slug": "cram-school",
+    "name": "Cram School",
+    "description": "適合補習班的招生官網，展示課程與教學成果。",
+    "industry": "補習班",
+    "industryCategory": "教育課程",
+    "colorTheme": "明亮藍黃教育感",
+    "layoutType": "學生圖",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T045-cram-school.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

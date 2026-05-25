@@ -1,0 +1,8 @@
+{
+  "id": "template-004", "name": "Coffee Shop", "industryCategory": "餐飲服務",
+  "industry": ["咖啡廳", "甜點店", "烘焙坊", "早午餐", "輕食"],
+  "colors": ["#3e2723", "#5d4037", "#8d6e63", "#d7ccc8", "#efeae2"],
+  "features": ["RWD響應式", "SEO優化", "Bootstrap 5", "12頁完整形象站", "線上訂位", "菜單展示"],
+  "layout": ["經典 Landing Page", "形象站"], "pages": 12,
+  "hasZip": false, "hasPrompt": true, "hasPreview": true, "imageRich": true
+}

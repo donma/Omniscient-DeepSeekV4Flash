@@ -1,0 +1,18 @@
+{
+  "id": "template-T025",
+  "slug": "real-estate",
+  "name": "Real Estate Agent",
+  "description": "為房仲業務、不動產經紀人設計的白金商務形象網站。簡約俐落，展現專業與信任。",
+  "industry": "房仲業務",
+  "industryCategory": "專業服務",
+  "colorTheme": "白金城市商務",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T025-real-estate.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "template-004", "slug": "coffee-shop", "name": "Coffee Shop",
+  "description": "為咖啡廳、甜點店、烘焙坊打造的溫暖木質調形象網站。營造舒適放鬆的咖啡館氛圍。",
+  "industry": "咖啡甜點", "industryCategory": "餐飲服務",
+  "colorTheme": "木質暖棕", "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-004-coffee-shop.zip",
+  "hasZip": false, "promptFile": "prompt.md", "pageCount": 12,
+  "imageRich": true, "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

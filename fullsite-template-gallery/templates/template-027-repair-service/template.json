@@ -1,0 +1,18 @@
+{
+  "id": "template-T027",
+  "slug": "repair-service",
+  "name": "Repair Service",
+  "description": "為維修公司、水電行設計的工業灰橘實用風格網站。樸實耐用感傳達可靠與專業。",
+  "industry": "維修服務",
+  "industryCategory": "生活服務",
+  "colorTheme": "工業灰橘實用",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T027-repair-service.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

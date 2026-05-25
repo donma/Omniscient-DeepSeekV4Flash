@@ -1,0 +1,14 @@
+{
+  "id": "template-T021",
+  "name": "Template T021",
+  "industryCategory": "Business",
+  "industry": ["烘焙","甜點","面包","蛋糕","點心"],
+  "colors": ["#3d1f0a","#6b3a1f","#c4863a","#e8c49a","#faf0e0"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

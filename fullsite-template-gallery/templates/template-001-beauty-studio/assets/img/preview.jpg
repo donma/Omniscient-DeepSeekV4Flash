@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5e6d3"/>
+      <stop offset="100%" style="stop-color:#e8d5c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="600" cy="300" r="120" fill="#c9a88e" opacity="0.3"/>
+  <circle cx="600" cy="300" r="80" fill="#c9a88e" opacity="0.5"/>
+  <text x="600" y="220" font-family="serif" font-size="48" font-weight="bold" fill="#3d2b1f" text-anchor="middle">Beauty Studio</text>
+  <text x="600" y="280" font-family="serif" font-size="20" fill="#8c6e5d" text-anchor="middle">美容美學 · 奶茶色柔和</text>
+  <rect x="300" y="420" width="600" height="4" rx="2" fill="#c9a88e"/>
+  <text x="600" y="480" font-family="sans-serif" font-size="14" fill="#8c6e5d" text-anchor="middle">色系: #f5e6d3 #e8d5c4 #c9a88e #8c6e5d #3d2b1f</text>
+  <text x="600" y="520" font-family="sans-serif" font-size="14" fill="#8c6e5d" text-anchor="middle">12 頁完整樣板 | RWD | Bootstrap 5</text>
+  <rect x="420" y="560" width="360" height="50" rx="25" fill="#3d2b1f"/>
+  <text x="600" y="592" font-family="sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">T001 - Beauty Studio</text>
+</svg>

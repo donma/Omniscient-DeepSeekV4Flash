@@ -1,0 +1,18 @@
+{
+  "id": "template-T023",
+  "slug": "handmade-craft",
+  "name": "Handmade Craft",
+  "description": "為手作品牌、文創工作室設計的紙感自然文青風格網站。大地色系傳遞手作的溫度。",
+  "industry": "手作品牌",
+  "industryCategory": "生活美業",
+  "colorTheme": "紙感自然文青",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T023-handmade-craft.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "template-T019",
+  "slug": "wedding-service",
+  "name": "Wedding Service",
+  "description": "為婚顧公司、婚禮工作室設計的浪漫高級形象網站。米白金配色展現優雅與尊貴。",
+  "industry": "婚禮服務",
+  "industryCategory": "生活美業",
+  "colorTheme": "米白金浪漫高級",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T019-wedding-service.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

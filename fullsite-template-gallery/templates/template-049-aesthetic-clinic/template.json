@@ -1,0 +1,18 @@
+{
+    "id": "T049",
+    "slug": "aesthetic-clinic",
+    "name": "Aesthetic Clinic",
+    "description": "適合醫美診所的精緻品牌官網，傳遞專業與美感。",
+    "industry": "醫美診所",
+    "industryCategory": "美容健康",
+    "colorTheme": "白金精緻醫療",
+    "layoutType": "診所環境",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T049-aesthetic-clinic.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

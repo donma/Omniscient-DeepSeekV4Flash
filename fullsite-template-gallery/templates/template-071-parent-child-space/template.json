@@ -1,0 +1,18 @@
+{
+  "id": "template-071",
+  "slug": "parent-child-space",
+  "name": "Parent Child Space",
+  "description": "Parent Child Space - 專為教育課程產業設計的全功能網站樣板。採用活動 / 體驗導向版型設計，打造專業的品牌形象網站。",
+  "industry": "教育課程",
+  "industryCategory": "教育",
+  "colorTheme": "#fce4ec, #f8bbd0, #c8e6c9, #81c784, #ffcc02",
+  "layoutType": "活動 / 體驗導向",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-071-parent-child-space.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

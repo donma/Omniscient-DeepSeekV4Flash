@@ -1,0 +1,14 @@
+{
+  "id": "template-T023",
+  "name": "Template T023",
+  "industryCategory": "Business",
+  "industry": ["手作","文創","工藝","設計","DIY"],
+  "colors": ["#f5f0e6","#e8e0d0","#c4b89a","#8a7a5a","#4a3a2a"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

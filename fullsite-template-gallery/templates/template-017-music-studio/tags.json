@@ -1,0 +1,14 @@
+{
+  "id": "template-T017",
+  "name": "Template T017",
+  "industryCategory": "Business",
+  "industry": ["音樂","才藝","鋼琴","小提琴","教室"],
+  "colors": ["#0d0d0d","#1a1a2e","#e94560","#533483","#f5f5f5"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "template-082",
+  "slug": "pottery-studio",
+  "name": "Pottery Studio",
+  "description": "Pottery Studio - 專為空間生活產業設計的全功能網站樣板。採用Masonry 作品牆版型設計，打造專業的品牌形象網站。",
+  "industry": "空間生活",
+  "industryCategory": "空間",
+  "colorTheme": "#d4c4a0, #b8a480, #8a7a5a, #5a4a3a, #2a1a0a",
+  "layoutType": "Masonry 作品牆",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-082-pottery-studio.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

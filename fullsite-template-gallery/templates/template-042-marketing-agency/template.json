@@ -1,0 +1,18 @@
+{
+    "id": "T042",
+    "slug": "marketing-agency",
+    "name": "Marketing Agency",
+    "description": "適合行銷代理商的作品展示與數據成果官網。",
+    "industry": "行銷代理商",
+    "industryCategory": "創意設計",
+    "colorTheme": "深色潮流數據感",
+    "layoutType": "數據儀表板",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T042-marketing-agency.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

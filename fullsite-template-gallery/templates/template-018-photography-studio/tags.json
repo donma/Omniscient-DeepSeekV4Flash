@@ -1,0 +1,14 @@
+{
+  "id": "template-T018",
+  "name": "Template T018",
+  "industryCategory": "Business",
+  "industry": ["攝影","寫真","婚紗攝影","影像","作品"],
+  "colors": ["#000000","#1a1a1a","#4a4a4a","#8a8a8a","#f0f0f0"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

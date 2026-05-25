@@ -1,0 +1,18 @@
+{
+  "id": "template-002",
+  "slug": "modern-restaurant",
+  "name": "Modern Restaurant",
+  "description": "為高級餐廳、餐酒館、異國料理品牌打造的暖色美食形象網站。大圖背景搭配精緻排版，完美呈現餐飲品牌質感。",
+  "industry": "餐廳美食",
+  "industryCategory": "餐飲服務",
+  "colorTheme": "暖色大圖",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-002-modern-restaurant.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

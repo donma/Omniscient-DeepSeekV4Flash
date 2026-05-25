@@ -1,0 +1,18 @@
+{
+  "id": "template-T026",
+  "slug": "cleaning-service",
+  "name": "Cleaning Service",
+  "description": "為清潔公司、居家清潔服務設計的白藍清爽形象網站。干凈俐落的視覺傳遞效率與安心。",
+  "industry": "清潔服務",
+  "industryCategory": "生活服務",
+  "colorTheme": "白藍清爽效率",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T026-cleaning-service.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

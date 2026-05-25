@@ -1,0 +1,18 @@
+{
+    "id": "T047",
+    "slug": "yoga-studio",
+    "name": "Yoga Studio",
+    "description": "適合瑜珈工作室的靜謐品牌官網，傳遞身心平衡理念。",
+    "industry": "瑜珈工作室",
+    "industryCategory": "美容健康",
+    "colorTheme": "米白綠安靜自然",
+    "layoutType": "瑜珈姿勢",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T047-yoga-studio.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

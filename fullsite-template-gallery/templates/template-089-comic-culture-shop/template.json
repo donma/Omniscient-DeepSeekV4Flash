@@ -1,0 +1,18 @@
+{
+  "id": "template-089",
+  "slug": "comic-culture-shop",
+  "name": "Comic Culture Shop",
+  "description": "Comic Culture Shop - 專為零售商品產業設計的全功能網站樣板。採用Magazine 雜誌式首頁版型設計，打造專業的品牌形象網站。",
+  "industry": "零售商品",
+  "industryCategory": "零售",
+  "colorTheme": "#e94560, #ff6b6b, #ffd93d, #4d96ff, #0a0a0a",
+  "layoutType": "Magazine 雜誌式首頁",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-089-comic-culture-shop.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

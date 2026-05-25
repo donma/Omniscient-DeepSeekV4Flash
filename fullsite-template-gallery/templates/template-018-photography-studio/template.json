@@ -1,0 +1,18 @@
+{
+  "id": "template-T018",
+  "slug": "photography-studio",
+  "name": "Photography Studio",
+  "description": "為攝影工作室、攝影師打造的作品導向形象網站。黑白極簡突顯影像的純粹與力量。",
+  "industry": "攝影工作室",
+  "industryCategory": "生活美業",
+  "colorTheme": "黑白大圖作品導向",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T018-photography-studio.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

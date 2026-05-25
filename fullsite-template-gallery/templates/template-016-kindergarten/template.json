@@ -1,0 +1,18 @@
+{
+  "id": "template-T016",
+  "slug": "kindergarten",
+  "name": "Kindergarten",
+  "description": "為幼兒園、托嬰中心設計的柔和彩色形象網站。溫暖粉嫩色調營造安全、快樂的成長氛圍。",
+  "industry": "幼兒教育",
+  "industryCategory": "教育學習",
+  "colorTheme": "柔和彩色安全溫暖",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T016-kindergarten.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

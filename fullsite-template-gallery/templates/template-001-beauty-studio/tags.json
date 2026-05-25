@@ -1,0 +1,14 @@
+{
+  "id": "template-001",
+  "name": "Beauty Studio",
+  "industryCategory": "生活美業",
+  "industry": ["美容", "美甲", "美學沙龍", "臉部護理", "SPA"],
+  "colors": ["#f5e6d3", "#e8d5c4", "#c9a88e", "#8c6e5d", "#3d2b1f"],
+  "features": ["RWD響應式", "SEO優化", "Bootstrap 5", "12頁完整形象站", "漢堡選單", "表單驗證", "社群連結"],
+  "layout": ["經典 Landing Page", "形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

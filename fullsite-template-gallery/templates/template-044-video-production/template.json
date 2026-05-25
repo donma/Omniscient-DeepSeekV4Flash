@@ -1,0 +1,18 @@
+{
+    "id": "T044",
+    "slug": "video-production",
+    "name": "Video Production",
+    "description": "適合影片製作公司的作品展示官網，凸顯視覺張力。",
+    "industry": "影片製作",
+    "industryCategory": "創意設計",
+    "colorTheme": "黑色電影感大圖",
+    "layoutType": "播放按鈕",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T044-video-production.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

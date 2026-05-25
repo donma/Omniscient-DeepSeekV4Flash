@@ -1,0 +1,18 @@
+{
+  "id": "template-064",
+  "slug": "hotpot-restaurant",
+  "name": "Hotpot Restaurant",
+  "description": "Hotpot Restaurant - 專為餐飲甜點產業設計的全功能網站樣板。採用商品型 Grid Catalog版型設計，打造專業的品牌形象網站。",
+  "industry": "餐飲甜點",
+  "industryCategory": "餐飲",
+  "colorTheme": "#2a0a0a, #6a1a1a, #c94a2a, #e8a040, #f5f0e8",
+  "layoutType": "商品型 Grid Catalog",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-064-hotpot-restaurant.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "T039",
+    "slug": "insurance-consultant",
+    "name": "Insurance Consultant",
+    "description": "適合保險顧問的個人品牌官網，建立專業信任感。",
+    "industry": "保險顧問",
+    "industryCategory": "專業服務",
+    "colorTheme": "深藍金信任感",
+    "layoutType": "人像信任",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T039-insurance-consultant.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

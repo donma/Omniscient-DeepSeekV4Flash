@@ -1,0 +1,18 @@
+{
+    "id": "T050",
+    "slug": "chinese-medicine",
+    "name": "Chinese Medicine",
+    "description": "適合中醫診所的傳統東方風格官網，傳遞養生理念。",
+    "industry": "中醫診所",
+    "industryCategory": "美容健康",
+    "colorTheme": "米白墨綠東方信任",
+    "layoutType": "東方風格",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T050-chinese-medicine.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

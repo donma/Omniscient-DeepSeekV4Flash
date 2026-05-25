@@ -1,0 +1,14 @@
+{
+  "id": "template-T011",
+  "name": "Dental Clinic",
+  "industryCategory": "醫療健康",
+  "industry": ["牙醫", "牙科", "醫療", "診所", "口腔"],
+  "colors": ["#f0f8ff", "#dce8f5", "#4a90d9", "#2c5f8a", "#1a3a5c"],
+  "features": ["RWD響應式", "SEO優化", "Bootstrap 5", "12頁完整形象站", "漢堡選單", "表單驗證", "社群連結", "LocalBusiness Schema"],
+  "layout": ["經典 Landing Page", "醫療形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "template-T030",
+  "name": "Template T030",
+  "industryCategory": "Business",
+  "industry": ["有機","農場","農產品","自然","健康"],
+  "colors": ["#2d4a2a","#4a6a3a","#7a9a5a","#c4d4a0","#f0f5ea"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "template-T022",
+  "name": "Template T022",
+  "industryCategory": "Business",
+  "industry": ["茶","茶藝","茶飲","茶道","茶館"],
+  "colors": ["#2d3a2a","#4a5a40","#7a8a6a","#d4c8b0","#f5f0e6"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

@@ -1,0 +1,18 @@
+{
+    "id": "T052",
+    "slug": "career-coach",
+    "name": "Career Coach",
+    "description": "適合職涯教練的個人品牌官網，建立專業權威感。",
+    "industry": "職涯教練",
+    "industryCategory": "個人品牌",
+    "colorTheme": "淺色商務人像",
+    "layoutType": "專業人像",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T052-career-coach.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

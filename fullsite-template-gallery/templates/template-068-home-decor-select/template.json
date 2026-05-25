@@ -1,0 +1,18 @@
+{
+  "id": "template-068",
+  "slug": "home-decor-select",
+  "name": "Home Decor Select",
+  "description": "Home Decor Select - 專為空間生活產業設計的全功能網站樣板。採用Magazine 雜誌式首頁版型設計，打造專業的品牌形象網站。",
+  "industry": "空間生活",
+  "industryCategory": "空間",
+  "colorTheme": "#faf6f0, #f0e8dc, #d4c8b0, #a8987a, #6a5a4a",
+  "layoutType": "Magazine 雜誌式首頁",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-068-home-decor-select.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

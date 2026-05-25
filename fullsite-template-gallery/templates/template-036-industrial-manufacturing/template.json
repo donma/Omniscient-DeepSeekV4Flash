@@ -1,0 +1,18 @@
+{
+    "id": "T036",
+    "slug": "industrial-manufacturing",
+    "name": "Industrial Manufacturing",
+    "description": "適合工業製造商的產品展示官網，展現工廠實力。",
+    "industry": "工業製造",
+    "industryCategory": "科技商務",
+    "colorTheme": "灰黑橘機械感",
+    "layoutType": "工廠大圖",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T036-industrial-manufacturing.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

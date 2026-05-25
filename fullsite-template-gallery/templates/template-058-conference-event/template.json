@@ -1,0 +1,18 @@
+{
+    "id": "T058",
+    "slug": "conference-event",
+    "name": "Conference Event",
+    "description": "適合研討會/會議的活動官網，包含議程與講者資訊。",
+    "industry": "研討會",
+    "industryCategory": "活動組織",
+    "colorTheme": "科技深色議程導向",
+    "layoutType": "倒數計時",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T058-conference-event.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

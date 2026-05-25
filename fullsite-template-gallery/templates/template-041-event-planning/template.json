@@ -1,0 +1,18 @@
+{
+    "id": "T041",
+    "slug": "event-planning",
+    "name": "Event Planning",
+    "description": "適合活動策劃公司的創意官網，展示精彩活動案例。",
+    "industry": "活動策劃",
+    "industryCategory": "創意設計",
+    "colorTheme": "高彩現代動態感",
+    "layoutType": "動態派對",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T041-event-planning.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

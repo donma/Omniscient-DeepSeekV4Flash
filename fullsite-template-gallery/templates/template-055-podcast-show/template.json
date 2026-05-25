@@ -1,0 +1,18 @@
+{
+    "id": "T055",
+    "slug": "podcast-show",
+    "name": "Podcast Show",
+    "description": "適合 Podcast 節目的品牌官網，展示集數與訂閱資訊。",
+    "industry": "Podcast",
+    "industryCategory": "個人品牌",
+    "colorTheme": "深色聲波媒體感",
+    "layoutType": "聲波動畫",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T055-podcast-show.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

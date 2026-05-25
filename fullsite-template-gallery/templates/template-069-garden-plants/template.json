@@ -1,0 +1,18 @@
+{
+  "id": "template-069",
+  "slug": "garden-plants",
+  "name": "Garden Plants",
+  "description": "Garden Plants - 專為空間生活產業設計的全功能網站樣板。採用Masonry 作品牆版型設計，打造專業的品牌形象網站。",
+  "industry": "空間生活",
+  "industryCategory": "空間",
+  "colorTheme": "#f0f5ea, #d4e0c0, #7a9a4a, #4a6a2a, #2a3a1a",
+  "layoutType": "Masonry 作品牆",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-069-garden-plants.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "template-076",
+  "slug": "outdoor-equipment",
+  "name": "Outdoor Equipment",
+  "description": "Outdoor Equipment - 專為零售商品產業設計的全功能網站樣板。採用商品型 Grid Catalog版型設計，打造專業的品牌形象網站。",
+  "industry": "零售商品",
+  "industryCategory": "零售",
+  "colorTheme": "#0a0a0a, #1a2a1a, #2a4a2a, #4a7a4a, #e8e8d0",
+  "layoutType": "商品型 Grid Catalog",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-076-outdoor-equipment.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

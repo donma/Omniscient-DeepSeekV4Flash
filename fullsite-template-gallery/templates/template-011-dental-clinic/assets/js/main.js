@@ -1,0 +1,8 @@
+document.addEventListener('DOMContentLoaded',function(){
+  document.querySelectorAll('a[href^="#"]').forEach(a=>{a.addEventListener('click',function(e){const h=this.getAttribute('href');if(h!=='#'){e.preventDefault();const t=document.querySelector(h);if(t)t.scrollIntoView({behavior:'smooth',block:'start'})}})});
+  const n=document.querySelector('.navbar');if(n){window.addEventListener('scroll',()=>{n.classList.toggle('shadow-sm',window.scrollY>50)})}
+  document.querySelectorAll('form').forEach(f=>{f.addEventListener('submit',function(e){e.preventDefault();alert('感謝您的填寫！我們將盡快與您聯繫。');this.reset()})});
+  const bt=document.createElement('button');bt.innerHTML='<i class="bi bi-arrow-up"></i>';bt.className='btn btn-primary position-fixed';bt.style.cssText='bottom:30px;right:30px;width:50px;height:50px;border-radius:12px;display:none;z-index:9999;align-items:center;justify-content:center;';document.body.appendChild(bt);
+  window.addEventListener('scroll',()=>{bt.style.display=window.scrollY>400?'flex':'none'});bt.addEventListener('click',()=>{window.scrollTo({top:0,behavior:'smooth'})});
+  const fb=document.querySelectorAll('[data-filter]');fb.forEach(b=>{b.addEventListener('click',function(){const f=this.dataset.filter;document.querySelectorAll('[data-category]').forEach(i=>{i.style.display=f==='all'||i.dataset.category===f?'block':'none'});fb.forEach(b=>b.classList.remove('active'));this.classList.add('active')})});
+});

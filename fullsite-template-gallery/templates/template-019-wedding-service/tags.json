@@ -1,0 +1,14 @@
+{
+  "id": "template-T019",
+  "name": "Template T019",
+  "industryCategory": "Business",
+  "industry": ["婚禮","婚顧","婚紗","婚宴","新娘"],
+  "colors": ["#faf6f0","#f0e6d6","#d4bc9a","#c9a84c","#8a7a5a"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

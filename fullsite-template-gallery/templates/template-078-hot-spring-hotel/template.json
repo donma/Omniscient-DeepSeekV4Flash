@@ -1,0 +1,18 @@
+{
+  "id": "template-078",
+  "slug": "hot-spring-hotel",
+  "name": "Hot Spring Hotel",
+  "description": "Hot Spring Hotel - 專為旅遊休閒產業設計的全功能網站樣板。採用Storytelling 長卷軸版型設計，打造專業的品牌形象網站。",
+  "industry": "旅遊休閒",
+  "industryCategory": "旅遊",
+  "colorTheme": "#1a2a2a, #3a5a4a, #6a8a7a, #a0c0b0, #e8f0ea",
+  "layoutType": "Storytelling 長卷軸",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-078-hot-spring-hotel.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

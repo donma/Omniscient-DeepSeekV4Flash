@@ -1,0 +1,24 @@
+@media (max-width: 991.98px) {
+  .hero-section { min-height: auto; padding: 120px 0 60px; text-align: center; }
+  .hero-section .hero-text h1 { font-size: 2.5rem; }
+  .section-title { font-size: 2rem; }
+  .cta-section { padding: 3rem 1.5rem; }
+  .cta-section h2 { font-size: 1.8rem; }
+  .process-step .step-connector { display: none; }
+  .team-card img { height: 250px; }
+}
+@media (max-width: 767.98px) {
+  .hero-section .hero-text h1 { font-size: 2rem; }
+  .section-title { font-size: 1.6rem; }
+  .section-padding { padding: 60px 0; }
+  .hero-page { padding: 100px 0 50px; }
+  .hero-page h1 { font-size: 2rem; }
+  .portfolio-grid .portfolio-item img { height: 220px; }
+  .price-card { padding: 1.5rem; }
+  .navbar-brand { font-size: 1.1rem; }
+}
+@media (max-width: 575.98px) {
+  .hero-section .hero-text h1 { font-size: 1.6rem; }
+  .cta-section { padding: 2rem 1rem; border-radius: 0; margin: 0; }
+  .cta-section h2 { font-size: 1.4rem; }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "template-T028",
+  "name": "Template T028",
+  "industryCategory": "Business",
+  "industry": ["旅游","旅行社","行程","自由行","機票"],
+  "colors": ["#0a4a5a","#1a7a8a","#4ab5c9","#8ad4e0","#f0f8fa"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

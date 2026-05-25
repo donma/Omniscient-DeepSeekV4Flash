@@ -1,0 +1,18 @@
+{
+  "id": "template-085",
+  "slug": "bicycle-shop",
+  "name": "Bicycle Shop",
+  "description": "Bicycle Shop - 專為零售商品產業設計的全功能網站樣板。採用商品型 Grid Catalog版型設計，打造專業的品牌形象網站。",
+  "industry": "零售商品",
+  "industryCategory": "零售",
+  "colorTheme": "#0a0a0a, #2a2a2a, #5a5a5a, #e87a20, #f5f5f5",
+  "layoutType": "商品型 Grid Catalog",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-085-bicycle-shop.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

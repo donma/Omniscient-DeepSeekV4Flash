@@ -1,0 +1,18 @@
+{
+    "id": "T046",
+    "slug": "online-course",
+    "name": "Online Course",
+    "description": "適合線上教育平臺的課程銷售官網。",
+    "industry": "線上課程",
+    "industryCategory": "教育課程",
+    "colorTheme": "紫色漸層科技教育",
+    "layoutType": "筆電螢幕",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T046-online-course.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

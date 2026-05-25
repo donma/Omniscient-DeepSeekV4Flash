@@ -1,0 +1,18 @@
+{
+  "id": "template-001",
+  "slug": "beauty-studio",
+  "name": "Beauty Studio",
+  "description": "為美容沙龍、美甲工作室、美容美學品牌打造的優雅奶茶色形象網站。柔和溫暖的色調搭配簡潔大方的版面設計，完美呈現專業美感與品牌質感。",
+  "industry": "美容美學",
+  "industryCategory": "生活美業",
+  "colorTheme": "奶茶色柔和",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-001-beauty-studio.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

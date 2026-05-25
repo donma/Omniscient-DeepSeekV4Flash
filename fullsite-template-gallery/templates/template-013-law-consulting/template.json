@@ -1,0 +1,18 @@
+{
+  "id": "template-T013",
+  "slug": "law-consulting",
+  "name": "Law Consulting",
+  "description": "為法律事務所、律師個人品牌打造的專業形象網站。深藍金色調傳遞穩重、權威與信賴感。",
+  "industry": "法律顧問",
+  "industryCategory": "專業服務",
+  "colorTheme": "深藍金色穩重",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T013-law-consulting.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

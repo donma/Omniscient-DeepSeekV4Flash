@@ -1,0 +1,35 @@
+/* Tablet */
+@media (max-width: 991px) {
+    .masonry-grid { columns: 2; }
+    .magazine-featured img { height: 350px; }
+    .split-hero-left, .split-hero-right { min-height: 50vh; }
+    section { padding: 3.5rem 0; }
+    .navbar { background: #faf6f0 !important; }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .masonry-grid { columns: 1; }
+    .magazine-featured img { height: 250px; }
+    .magazine-overlay { padding: 1.5rem; }
+    .split-hero-left { min-height: auto; padding: 3rem 2rem; }
+    .split-hero-right { min-height: 300px; }
+    section { padding: 3rem 0; }
+    .hero-fullscreen { min-height: 80vh; }
+    .hero-half { min-height: 40vh; }
+    .card-img-top { height: 200px; }
+    .gallery-item img { height: 250px; }
+    .timeline::before { left: 20px; }
+    .process-step { padding: 1rem; }
+    .navbar-brand { font-size: 1.2rem; }
+    #back-to-top { width: 40px; height: 40px; bottom: 20px; right: 20px; font-size: 1rem; }
+    .filter-btn { font-size: 0.85rem; padding: 0.4rem 1rem; }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .hero-content h1 { font-size: 2rem !important; }
+    .hero-content p { font-size: 1rem !important; }
+    .section-title { font-size: 1.5rem; }
+    .card-img-top { height: 180px; }
+}

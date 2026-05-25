@@ -1,0 +1,18 @@
+{
+    "id": "T056",
+    "slug": "artist-portfolio",
+    "name": "Artist Portfolio",
+    "description": "適合藝術家的作品集網站，大圖留白凸顯作品質感。",
+    "industry": "藝術家",
+    "industryCategory": "個人品牌",
+    "colorTheme": "大圖留白展覽感",
+    "layoutType": "大圖全屏",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T056-artist-portfolio.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

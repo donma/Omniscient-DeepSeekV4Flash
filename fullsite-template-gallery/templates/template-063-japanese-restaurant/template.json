@@ -1,0 +1,18 @@
+{
+  "id": "template-063",
+  "slug": "japanese-restaurant",
+  "name": "Japanese Restaurant",
+  "description": "Japanese Restaurant - 專為餐飲甜點產業設計的全功能網站樣板。採用Storytelling 長卷軸版型設計，打造專業的品牌形象網站。",
+  "industry": "餐飲甜點",
+  "industryCategory": "餐飲",
+  "colorTheme": "#1a1a1a, #3a2a1a, #6b4a2a, #c4a88a, #f0ece0",
+  "layoutType": "Storytelling 長卷軸",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-063-japanese-restaurant.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "T037",
+    "slug": "building-materials",
+    "name": "Building Materials",
+    "description": "適合建材品牌的產品型錄網站，展示材質與施工案例。",
+    "industry": "建材",
+    "industryCategory": "空間生活",
+    "colorTheme": "灰白建築大圖材質",
+    "layoutType": "材質紋理",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T037-building-materials.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

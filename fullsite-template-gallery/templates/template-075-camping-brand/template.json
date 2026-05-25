@@ -1,0 +1,18 @@
+{
+  "id": "template-075",
+  "slug": "camping-brand",
+  "name": "Camping Brand",
+  "description": "Camping Brand - 專為旅遊休閒產業設計的全功能網站樣板。採用大圖沉浸式 Hero版型設計，打造專業的品牌形象網站。",
+  "industry": "旅遊休閒",
+  "industryCategory": "旅遊",
+  "colorTheme": "#1a2a1a, #2a4a2a, #4a6a3a, #8a9a5a, #d4c8a0",
+  "layoutType": "大圖沉浸式 Hero",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-075-camping-brand.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

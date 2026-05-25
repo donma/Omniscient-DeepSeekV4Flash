@@ -1,0 +1,18 @@
+{
+  "id": "template-070",
+  "slug": "pet-supplies",
+  "name": "Pet Supplies",
+  "description": "Pet Supplies - 專為零售商品產業設計的全功能網站樣板。採用商品型 Grid Catalog版型設計，打造專業的品牌形象網站。",
+  "industry": "零售商品",
+  "industryCategory": "零售",
+  "colorTheme": "#faf0f0, #f0e0e8, #e8a0b0, #c08090, #a06070",
+  "layoutType": "商品型 Grid Catalog",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-070-pet-supplies.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

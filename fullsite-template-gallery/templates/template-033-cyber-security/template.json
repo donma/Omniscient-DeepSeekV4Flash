@@ -1,0 +1,18 @@
+{
+    "id": "T033",
+    "slug": "cyber-security",
+    "name": "Cyber Security",
+    "description": "適合資安公司的專業網站，展現防護能力與技術實力。",
+    "industry": "資訊安全",
+    "industryCategory": "科技商務",
+    "colorTheme": "深藍黑網格",
+    "layoutType": "柵格背景",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T033-cyber-security.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

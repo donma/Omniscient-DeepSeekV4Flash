@@ -1,0 +1,18 @@
+{
+    "id": "T038",
+    "slug": "logistics-company",
+    "name": "Logistics Company",
+    "description": "適合物流公司的服務官網，展示運輸網絡與服務範圍。",
+    "industry": "物流運輸",
+    "industryCategory": "專業服務",
+    "colorTheme": "藍橘速度感",
+    "layoutType": "地圖路線",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T038-logistics-company.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

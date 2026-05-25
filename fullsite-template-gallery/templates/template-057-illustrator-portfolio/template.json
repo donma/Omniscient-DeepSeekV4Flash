@@ -1,0 +1,18 @@
+{
+    "id": "T057",
+    "slug": "illustrator-portfolio",
+    "name": "Illustrator Portfolio",
+    "description": "適合插畫家的個人作品集網站，展現手繪風格。",
+    "industry": "插畫家",
+    "industryCategory": "個人品牌",
+    "colorTheme": "高彩手繪感",
+    "layoutType": "手繪風格",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T057-illustrator-portfolio.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "template-003", "slug": "fashion-boutique", "name": "Fashion Boutique",
+  "description": "為時尚品牌、服飾選品店打造的極簡黑白灰精品形象網站。簡潔俐落的版面設計，完美呈現高端時尚感。",
+  "industry": "時尚服飾", "industryCategory": "時尚精品",
+  "colorTheme": "黑白灰精品", "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-003-fashion-boutique.zip",
+  "hasZip": false, "promptFile": "prompt.md", "pageCount": 12,
+  "imageRich": true, "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "template-T011",
+  "slug": "dental-clinic",
+  "name": "Dental Clinic",
+  "description": "為牙醫診所、牙科醫療院所打造的專業醫療形象網站。淺藍潔白的清新色調搭配圓角卡片設計，傳遞安心、專業、乾淨的品牌信任感。",
+  "industry": "牙醫診所",
+  "industryCategory": "醫療健康",
+  "colorTheme": "白色淺藍醫療感",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T011-dental-clinic.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

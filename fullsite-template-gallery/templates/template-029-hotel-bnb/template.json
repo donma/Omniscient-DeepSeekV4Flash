@@ -1,0 +1,18 @@
+{
+  "id": "template-T029",
+  "slug": "hotel-bnb",
+  "name": "Hotel BNB",
+  "description": "為民宿、旅館業者設計的暖白自然度假風格網站。溫馨色調營造回家的舒適感。",
+  "industry": "民宿旅宿",
+  "industryCategory": "旅游休閑",
+  "colorTheme": "暖白自然度假感",
+  "layoutType": "經典 Landing Page",
+  "previewImage": "assets/img/preview.jpg",
+  "zipFile": "../../downloads/template-T029-hotel-bnb.zip",
+  "hasZip": false,
+  "promptFile": "prompt.md",
+  "pageCount": 12,
+  "imageRich": true,
+  "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+  "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "template-T027",
+  "name": "Template T027",
+  "industryCategory": "Business",
+  "industry": ["維修","水電","修繕","家電","工程"],
+  "colors": ["#1a1a1a","#3a3a3a","#6a6a6a","#e87a20","#f5f0e8"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}

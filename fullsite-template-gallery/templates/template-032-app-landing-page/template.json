@@ -1,0 +1,18 @@
+{
+    "id": "T032",
+    "slug": "app-landing",
+    "name": "App Landing Page",
+    "description": "適合 App 產品頁面，展示功能亮點並引導下載。",
+    "industry": "App 應用程式",
+    "industryCategory": "科技商務",
+    "colorTheme": "淺色科技",
+    "layoutType": "手機 Mockup",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T032-app-landing.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

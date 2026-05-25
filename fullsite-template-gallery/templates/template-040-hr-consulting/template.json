@@ -1,0 +1,18 @@
+{
+    "id": "T040",
+    "slug": "hr-consulting",
+    "name": "HR Consulting",
+    "description": "適合人資顧問公司的專業服務網站。",
+    "industry": "人力資源",
+    "industryCategory": "專業服務",
+    "colorTheme": "淺色商務人像感",
+    "layoutType": "團隊人像",
+    "previewImage": "assets/img/preview.jpg",
+    "zipFile": "../../downloads/T040-hr-consulting.zip",
+    "hasZip": false,
+    "promptFile": "prompt.md",
+    "pageCount": 12,
+    "imageRich": true,
+    "imagePolicy": "圖片僅作為設計示意，正式交付前請替換為客戶自有或授權圖片。",
+    "pages": ["index.html","about.html","services.html","service-detail.html","portfolio.html","reviews.html","faq.html","booking.html","process.html","blog.html","blog-detail.html","contact.html"]
+}

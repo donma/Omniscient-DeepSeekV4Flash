@@ -1,0 +1,14 @@
+{
+  "id": "template-T029",
+  "name": "Template T029",
+  "industryCategory": "Business",
+  "industry": ["民宿","旅館","住宿","度假","旅游"],
+  "colors": ["#faf6f0","#f0e8dc","#c4b89a","#8a7a5a","#4a3a2a"],
+  "features": ["RWD響應式","SEO優化","Bootstrap 5","12頁完整形象站","漢堡選單","表單驗證","社群連結"],
+  "layout": ["經典 Landing Page","形象站"],
+  "pages": 12,
+  "hasZip": false,
+  "hasPrompt": true,
+  "hasPreview": true,
+  "imageRich": true
+}
