@@ -28,7 +28,7 @@ a:hover { color: var(--accent); }
 .navbar.bg-transparent { background: transparent !important; }
 .navbar.bg-transparent.scrolled { background: var(--primary) !important; }
 .navbar-brand { font-weight: 700; font-size: 1.5rem; letter-spacing: 2px; color: #e8c0c0; }
-.navbar .nav-link { font-weight: 500; letter-spacing: 1px; padding: 0.5rem 1rem !important; color: #a07070; }
+.navbar .nav-link { white-space: nowrap; font-weight: 500; letter-spacing: 1px; padding: 0.5rem 1rem !important; color: #a07070; }
 .navbar .nav-link:hover { color: #e8c0c0; }
 .navbar-toggler { border: none; padding: 0; }
 .navbar-toggler:focus { box-shadow: none; }

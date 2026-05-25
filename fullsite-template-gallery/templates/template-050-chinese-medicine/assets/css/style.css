@@ -2,7 +2,7 @@
 *{font-family:'Noto Sans TC',sans-serif}
 body{padding-top:76px}
 .navbar{background:linear-gradient(135deg,var(--c1),var(--c2))!important;box-shadow:0 2px 20px rgba(0,0,0,.1)}
-.navbar .nav-link{color:var(--c5)!important;font-weight:500;margin:0 4px;padding:8px 16px!important;border-radius:8px;transition:.3s}
+.navbar .nav-link{white-space:nowrap;color:var(--c5)!important;font-weight:500;margin:0 4px;padding:8px 16px!important;border-radius:8px;transition:.3s}
 .navbar .nav-link:hover,.navbar .nav-link.active{color:var(--c5)!important;background:rgba(0,0,0,.08)}
 .hero{min-height:90vh;display:flex;align-items:center;position:relative;overflow:hidden;background:linear-gradient(135deg,var(--c1),var(--c2))}
 .hero h1{font-weight:900;font-size:3.2rem;line-height:1.2}

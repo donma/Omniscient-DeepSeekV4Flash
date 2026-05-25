@@ -11,7 +11,7 @@ body { font-family: var(--font-serif); color: var(--light); background: var(--da
 .navbar { background: rgba(10,10,10,0.95) !important; backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255,255,255,0.05); }
 .navbar-brand { font-weight: 800; color: var(--light) !important; letter-spacing: 3px; font-size: 1.2rem; }
 .navbar-brand i { color: var(--primary); margin-right: 6px; }
-.nav-link { color: rgba(255,255,255,0.7) !important; font-weight: 500; margin: 0 4px; letter-spacing: 1px; font-size: 0.85rem; }
+.nav-link { white-space: nowrap; color: rgba(255,255,255,0.7) !important; font-weight: 500; margin: 0 4px; letter-spacing: 1px; font-size: 0.85rem; }
 .nav-link:hover { color: var(--primary) !important; }
 .btn-primary { background: var(--primary); border-color: var(--primary); color: #fff; border-radius: 0; padding: 14px 36px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; transition: all 0.3s; }
 .btn-primary:hover { background: var(--primary-dark); border-color: var(--primary-dark); transform: translateY(-2px); box-shadow: 0 8px 25px rgba(233,69,96,0.4); }

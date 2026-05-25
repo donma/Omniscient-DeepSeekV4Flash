@@ -12,7 +12,7 @@ body { font-family: var(--font); color: var(--text); overflow-x: hidden; }
 .navbar { background: rgba(255,255,255,0.97) !important; backdrop-filter: blur(10px); box-shadow: 0 2px 15px rgba(74,144,217,0.08); }
 .navbar-brand { font-weight: 800; color: var(--darker) !important; font-size: 1.5rem; }
 .navbar-brand i { color: var(--primary); margin-right: 6px; }
-.nav-link { color: var(--text) !important; font-weight: 500; margin: 0 6px; border-radius: 8px; transition: all 0.3s; }
+.nav-link { white-space: nowrap; color: var(--text) !important; font-weight: 500; margin: 0 6px; border-radius: 8px; transition: all 0.3s; }
 .nav-link:hover { color: var(--primary) !important; background: var(--secondary); }
 .btn-primary { background: linear-gradient(135deg, var(--primary), var(--primary-dark)); border: none; border-radius: 8px; padding: 14px 36px; font-weight: 600; letter-spacing: 1px; transition: all 0.3s; }
 .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(74,144,217,0.35); }

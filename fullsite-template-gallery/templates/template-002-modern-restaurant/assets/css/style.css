@@ -10,7 +10,7 @@
 body { font-family: var(--font-serif); color: var(--dark); background: var(--light); overflow-x: hidden; }
 .navbar { background: rgba(45,24,16,0.95) !important; backdrop-filter: blur(10px); }
 .navbar-brand { font-weight: 800; color: var(--primary) !important; letter-spacing: 2px; font-size: 1.5rem; }
-.nav-link { color: var(--secondary) !important; font-weight: 500; margin: 0 4px; position: relative; }
+.nav-link { white-space: nowrap; color: var(--secondary) !important; font-weight: 500; margin: 0 4px; position: relative; }
 .nav-link::after { content: ''; position: absolute; bottom: 0; left: 50%; width: 0; height: 2px; background: var(--primary); transition: all 0.3s; transform: translateX(-50%); }
 .nav-link:hover::after { width: 80%; }
 .btn-primary { background: var(--primary-dark); border-color: var(--primary-dark); color: #fff; border-radius: 8px; padding: 14px 36px; font-weight: 700; letter-spacing: 1px; transition: all 0.3s; }

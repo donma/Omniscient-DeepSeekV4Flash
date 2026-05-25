@@ -3,7 +3,7 @@ body { font-family: var(--font-serif); color: #fff; background: var(--dark); ove
 .navbar { background: rgba(15,15,26,0.98) !important; backdrop-filter: blur(10px); }
 .navbar-brand { font-weight: 800; color: #fff !important; letter-spacing: 1px; font-size: 1.3rem; }
 .navbar-brand span { color: var(--primary); }
-.nav-link { color: #999 !important; font-weight: 500; }
+.nav-link { white-space: nowrap; color: #999 !important; font-weight: 500; }
 .nav-link:hover { color: var(--primary) !important; }
 .btn-primary { background: var(--primary); border: none; color: #fff; border-radius: 8px; padding: 14px 36px; font-weight: 700; transition: all 0.3s; }
 .btn-primary:hover { background: var(--primary-dark); transform: translateY(-2px); box-shadow: 0 8px 30px rgba(99,102,241,0.3); }

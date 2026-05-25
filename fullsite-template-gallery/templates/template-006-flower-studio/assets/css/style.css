@@ -11,7 +11,7 @@ body { font-family: var(--font-serif); color: #5a4a3a; background: var(--bg-crea
 .navbar { background: rgba(255,255,255,0.95) !important; backdrop-filter: blur(10px); }
 .navbar-brand { font-weight: 600; color: var(--dark) !important; letter-spacing: 2px; }
 .navbar-brand i { color: var(--primary); margin-right: 6px; }
-.nav-link { color: #7a6a5a !important; font-weight: 400; margin: 0 4px; }
+.nav-link { white-space: nowrap; color: #7a6a5a !important; font-weight: 400; margin: 0 4px; }
 .nav-link:hover { color: var(--dark) !important; }
 .btn-primary { background: var(--primary); border-color: var(--primary); color: #fff; border-radius: 50px; padding: 12px 32px; font-weight: 500; transition: all 0.3s; }
 .btn-primary:hover { background: var(--dark); border-color: var(--dark); transform: translateY(-2px); box-shadow: 0 8px 25px rgba(122,158,126,0.3); }

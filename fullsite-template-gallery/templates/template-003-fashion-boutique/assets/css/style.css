@@ -2,7 +2,7 @@
 body { font-family: var(--font-serif); color: var(--primary); background: var(--bg); overflow-x: hidden; }
 .navbar { background: rgba(0,0,0,0.95) !important; }
 .navbar-brand { font-weight: 300; color: #fff !important; letter-spacing: 4px; font-size: 1.3rem; text-transform: uppercase; }
-.nav-link { color: #ccc !important; font-weight: 300; letter-spacing: 1px; text-transform: uppercase; font-size: 0.85rem; }
+.nav-link { white-space: nowrap; color: #ccc !important; font-weight: 300; letter-spacing: 1px; text-transform: uppercase; font-size: 0.85rem; }
 .nav-link:hover { color: #fff !important; }
 .btn-primary { background: #000; border-color: #000; color: #fff; border-radius: 0; padding: 14px 36px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; font-size: 0.85rem; transition: all 0.3s; }
 .btn-primary:hover { background: #333; border-color: #333; }
